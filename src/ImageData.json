@@ -1,75 +1,36 @@
-{"images":[
+{
+  "images": [
     {
-        "id":0,
-        "name":"hayırlı cumalar",
-        "link":"https://icdn.tgrthaber.com.tr/static/haberler/22-12/16/cumamesajlari2023.jpg",
-        "tag":["cuma","hayırlıcumalar","mubarekgun","camii","camii","güzelcumamesajı"],
-        "createDate":"",
-        "likesNumber":123,
-        "isDeleted":false
+      "id": 0,
+      "link": "https://icdn.tgrthaber.com.tr/static/haberler/22-12/16/cumamesajlari2023.jpg"
     },
     {
-        "id":1,
-        "name":"hayırlı cumalar",
-        "link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJMCLfee3eiKsclG1BIhG01N-hYsLw3itqnDKLN11MiJ9e2MIlY1TM_dGls8qM8Hf-Lc&usqp=CAU",
-        "tag":["cuma","hayırlıcumalar","mubarekgun","camii","camii","güzelcumamesajı"],
-        "createDate":"",
-        "likesNumber":123,
-        "isDeleted":false
+      "id": 1,
+      "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJMCLfee3eiKsclG1BIhG01N-hYsLw3itqnDKLN11MiJ9e2MIlY1TM_dGls8qM8Hf-Lc&usqp=CAU"
     },
     {
-        "id":2,
-        "name":"hayırlı cumalar",
-        "link":"https://image.milimaj.com/i/milliyet/75/0x0/61a74e0f86b24a0f203e87b7.jpg",
-        "tag":["cuma","hayırlıcumalar","mubarekgun","camii","camii","güzelcumamesajı"],
-        "createDate":"",
-        "likesNumber":123,
-        "isDeleted":false
+      "id": 2,
+      "link": "https://image.milimaj.com/i/milliyet/75/0x0/61a74e0f86b24a0f203e87b7.jpg"
     },
     {
-        "id":3,
-        "name":"hayırlı cumalar",
-        "link":"https://img.memurlar.net/galeri/14643/9eb589b9-1160-e811-80df-a0369f7d149c.jpg?width=800",
-        "tag":["cuma","hayırlıcumalar","mubarekgun","camii","camii","güzelcumamesajı"],
-        "createDate":"",
-        "likesNumber":123,
-        "isDeleted":false
+      "id": 3,
+      "link": "https://img.memurlar.net/galeri/14643/9eb589b9-1160-e811-80df-a0369f7d149c.jpg?width=800"
     },
     {
-        "id":4,
-        "name":"hayırlı cumalar",
-        "link":"https://img.memurlar.net/galeri/14643/9eb589b9-1160-e811-80df-a0369f7d149c.jpg?width=800",
-        "tag":["cuma","hayırlıcumalar","mubarekgun","camii","camii","güzelcumamesajı"],
-        "createDate":"",
-        "likesNumber":123,
-        "isDeleted":false
+      "id": 4,
+      "link": "https://img.memurlar.net/galeri/14643/9eb589b9-1160-e811-80df-a0369f7d149c.jpg?width=800"
     },
     {
-        "id":5,
-        "name":"hayırlı cumalar",
-        "link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJMCLfee3eiKsclG1BIhG01N-hYsLw3itqnDKLN11MiJ9e2MIlY1TM_dGls8qM8Hf-Lc&usqp=CAU",
-        "tag":["cuma","hayırlıcumalar","mubarekgun","camii","camii","güzelcumamesajı"],
-        "createDate":"",
-        "likesNumber":123,
-        "isDeleted":false
+      "id": 5,
+      "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJMCLfee3eiKsclG1BIhG01N-hYsLw3itqnDKLN11MiJ9e2MIlY1TM_dGls8qM8Hf-Lc&usqp=CAU"
     },
     {
-        "id":6,
-        "name":"hayırlı cumalar",
-        "link":"https://image.milimaj.com/i/milliyet/75/0x0/61a74e0f86b24a0f203e87b7.jpg",
-        "tag":["cuma","hayırlıcumalar","mubarekgun","camii","camii","güzelcumamesajı"],
-        "createDate":"",
-        "likesNumber":123,
-        "isDeleted":false
+      "id": 6,
+      "link": "https://image.milimaj.com/i/milliyet/75/0x0/61a74e0f86b24a0f203e87b7.jpg"
     },
     {
-        "id":7,
-        "name":"hayırlı cumalar",
-        "link":"https://img.memurlar.net/galeri/14643/9eb589b9-1160-e811-80df-a0369f7d149c.jpg?width=800",
-        "tag":["cuma","hayırlıcumalar","mubarekgun","camii","camii","güzelcumamesajı"],
-        "createDate":"",
-        "likesNumber":123,
-        "isDeleted":false
+      "id": 7,
+      "link": "https://img.memurlar.net/galeri/14643/9eb589b9-1160-e811-80df-a0369f7d149c.jpg?width=800"
     }
-]}
-
+  ]
+}
